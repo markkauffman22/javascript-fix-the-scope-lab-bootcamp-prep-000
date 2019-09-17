@@ -1,4 +1,4 @@
-var animal = 'dog'
+window.animal = 'dog'
 
 function myAnimal() {
   return animal
